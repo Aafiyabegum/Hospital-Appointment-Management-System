@@ -1,2 +1,2 @@
-# Hospital-Appoitment-Management-System
+# Hospital-Appointment-Management-System
 Making an appointment by using this website, this website is developed by using PHP language and database MYSQL used.
